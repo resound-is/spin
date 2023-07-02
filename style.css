@@ -3,14 +3,12 @@ html, body{
   background-color: #D5D5D5;
 }
 
-
 img{
   width: 40%;
   display: block;
   margin: auto;
   margin-top: 10%;
 }
-
 
 @-webkit-keyframes rotating {
   from{
